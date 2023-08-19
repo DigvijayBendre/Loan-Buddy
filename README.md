@@ -2,6 +2,8 @@
 
 Loan Buddy is a comprehensive web application that provides users with the ability to apply for home loans. The project includes features such as user registration, login, loan application submission, and loan tracking capabilities. The application employs a range of technologies, including Java, Hibernate, Spring Core-MVC-ORM, Oracle, HTML, CSS, React, and Git.
 
+## ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
+
 ## Features
 
 - **User Registration and Authentication**: Secure user registration and login system.
